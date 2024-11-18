@@ -51,6 +51,9 @@ os.environ['PATH'] += ":/root/.cargo/bin"
 !chmod +x train_main.sh
 
 ## IMPLEMENTATION
+
+Note: made few changes to infer.py to make these commands run.
+
 for korean dataset:
 
 train model:
